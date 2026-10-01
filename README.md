@@ -13,7 +13,19 @@
   <a href="https://t.me/deadl0cked"><img src="https://img.shields.io/badge/Автор-deadl0cked-252A32?style=for-the-badge&logo=telegram&logoColor=white" alt="Автор / Creator: deadl0cked"></a>
 </p>
 
-<p align="center"><a href="#русский">Русский</a> · <a href="#english">English</a> · <a href="PRESS_KIT.md">Для прессы / Press kit</a> · <a href="https://github.com/deadl0cked/vacnet-android/issues">Обратная связь / Feedback</a></p>
+<p align="center"><a href="#видеообзор--app-walkthrough">Видео / Demo</a> · <a href="#русский">Русский</a> · <a href="#english">English</a> · <a href="PRESS_KIT.md">Для прессы / Press kit</a> · <a href="https://github.com/deadl0cked/vacnet-android/issues">Обратная связь / Feedback</a></p>
+
+## Видеообзор / App walkthrough
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ef7817c7-083c-4b40-b376-eb4eec8fc8ec" poster="https://raw.githubusercontent.com/deadl0cked/vacnet-android/main/assets/demo-poster.jpg" width="320" controls></video>
+</p>
+
+<p align="center">
+  <strong>40 секунд: запуск приложения, просмотр клипа и работа с ответами.</strong><br>
+  A 40-second screen recording: app launch, clip review and labeling.<br><br>
+  <a href="https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-Android-walkthrough.mp4">↓ Скачать видео / Download MP4</a>
+</p>
 
 > **Неофициальное приложение.** Не связано с Valve и не выдаёт приглашения в VACnet. Доступ к порталу определяется Valve. Версия 1.0 preview — подписанная **debug-сборка** для раннего знакомства, с включённой отладкой WebView.
 
