@@ -41,7 +41,7 @@ The cover is promotional artwork, **not an in-app screenshot**. Credit: **deadl0
 
 **[Watch the 40-second app walkthrough](https://github.com/deadl0cked/vacnet-android#видеообзор--app-walkthrough)** · **[Download MP4](https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-Android-walkthrough.mp4)**.
 
-The creator supplied this screen recording. It shows app launch, clip review and use of the labeling controls. The preview image in the README is a frame from the same recording.
+The creator supplied this screen recording. It shows app launch, clip review and use of the labeling controls. A [still from the recording](assets/demo-poster.jpg) is also available.
 
 For interviews or additional media requests, contact [the creator](https://t.me/deadl0cked). Rights to third-party website content and gameplay are not granted by this press kit.
 

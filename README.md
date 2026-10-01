@@ -18,7 +18,7 @@
 ## Видеообзор / App walkthrough
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/ef7817c7-083c-4b40-b376-eb4eec8fc8ec" poster="https://raw.githubusercontent.com/deadl0cked/vacnet-android/main/assets/demo-poster.jpg" width="320" controls></video>
+  <video src="https://github.com/user-attachments/assets/ef7817c7-083c-4b40-b376-eb4eec8fc8ec" controls></video>
 </p>
 
 <p align="center">
