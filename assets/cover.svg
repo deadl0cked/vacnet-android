@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="VACnet for Android — CS2 video review on your phone. Created by deadl0cked. Unofficial; Valve portal access required.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171A1F"/><stop offset="1" stop-color="#090B0F"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DE9B35" stop-opacity=".12"/><stop offset="1" stop-color="#DE9B35" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0 H0 V48" fill="none" stroke="#DE9B35" stroke-opacity=".05"/></pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <path d="M870 0 H1280 V640 H690 Z" fill="url(#glow)"/>
+  <rect x="64" y="64" width="6" height="25" rx="3" fill="#DE9B35"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="88" y="84" font-size="20" letter-spacing="3" fill="#B0B5BD">COMMUNITY BUILT · ANDROID</text>
+    <text x="60" y="225" font-size="116" font-weight="800" letter-spacing="-5" fill="#F1F3F6">VACnet</text>
+    <text x="65" y="286" font-size="30" letter-spacing="5" fill="#DE9B35">FOR ANDROID</text>
+    <text x="64" y="370" font-size="36" font-weight="600" fill="#E6E8EB">CS2 video review.</text>
+    <text x="64" y="418" font-size="36" font-weight="600" fill="#E6E8EB">On your phone.</text>
+    <text x="66" y="475" font-size="20" fill="#9DA4AE">Mobile layout · Full-screen player · Android 7.0+</text>
+    <text x="64" y="561" font-size="20" fill="#858D99">Created by</text>
+    <text x="171" y="561" font-size="22" font-weight="700" fill="#DE9B35">deadl0cked</text>
+    <text x="64" y="601" font-size="16" fill="#858D99">Unofficial client · Valve portal access required · Preview</text>
+  </g>
+  <g transform="translate(886 202) scale(2.1)">
+    <path d="M60 10 L104 26 L104 62 C104 86 85 102 60 110 C35 102 16 86 16 62 L16 26 Z" fill="#171A1F" stroke="#DE9B35" stroke-width="4" stroke-linejoin="round"/>
+    <path fill="#DE9B35" fill-rule="evenodd" d="M32 48 L36.6 48 L40 64.5 L43.4 48 L48 48 L42.4 72 L37.6 72 Z M52 72 L57.7 48 L62.3 48 L68 72 L63.2 72 L62.1 67 L57.9 67 L56.8 72 Z M60 53.5 L57.4 63.2 L62.6 63.2 Z M86.13 52.29 A8 12 0 1 0 86.13 67.71 L82.6 64.76 A3.4 7.4 0 1 1 82.6 55.24 Z"/>
+  </g>
+  <path d="M940 176 L1012 152 L1084 176" fill="none" stroke="#DE9B35" stroke-opacity=".28" stroke-width="2"/>
+  <path d="M942 468 Q1012 497 1082 468" fill="none" stroke="#DE9B35" stroke-opacity=".28" stroke-width="2"/>
+</svg>

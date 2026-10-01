@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Связаться с автором / Contact the creator
+    url: https://t.me/deadl0cked
+    about: Вопросы об Android-приложении / Questions about the Android app
+  - name: Официальный портал / Official portal
+    url: https://www.counter-strike.net/vacnet/
+    about: Доступ к порталу определяется Valve / Portal access is controlled by Valve

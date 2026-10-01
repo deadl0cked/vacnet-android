@@ -1,0 +1,33 @@
+name: Ошибка / Bug report
+description: Сообщить о проблеме в Android-клиенте / Report an Android client issue
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Не прикладывайте пароли, cookies, коды входа или приватные данные. / Do not include passwords, cookies, sign-in codes or private account data."
+  - type: input
+    id: device
+    attributes:
+      label: Телефон и версия Android / Device and Android version
+      placeholder: "Pixel 7, Android 15"
+    validations:
+      required: true
+  - type: input
+    id: app_version
+    attributes:
+      label: Версия приложения / App version
+      placeholder: "1.0 preview"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Шаги воспроизведения / Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Что произошло и что ожидалось / Actual and expected behavior
+    validations:
+      required: true

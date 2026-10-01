@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="VACnet Android client icon">
+  <rect width="120" height="120" rx="26" fill="#0E1013"/>
+  <path d="M60 10 L104 26 L104 62 C104 86 85 102 60 110 C35 102 16 86 16 62 L16 26 Z" fill="#171A1F" stroke="#DE9B35" stroke-width="6" stroke-linejoin="round"/>
+  <path fill="#DE9B35" fill-rule="evenodd" d="M32 48 L36.6 48 L40 64.5 L43.4 48 L48 48 L42.4 72 L37.6 72 Z M52 72 L57.7 48 L62.3 48 L68 72 L63.2 72 L62.1 67 L57.9 67 L56.8 72 Z M60 53.5 L57.4 63.2 L62.6 63.2 Z M86.13 52.29 A8 12 0 1 0 86.13 67.71 L82.6 64.76 A3.4 7.4 0 1 1 82.6 55.24 Z"/>
+</svg>

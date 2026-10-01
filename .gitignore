@@ -1,0 +1,9 @@
+# Only public documentation and artwork belong in this repository.
+*.apk
+*.jks
+*.keystore
+*.p12
+*.pem
+local.properties
+.env
+.env.*

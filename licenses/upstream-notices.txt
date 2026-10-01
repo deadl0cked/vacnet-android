@@ -1,0 +1,3 @@
+Scanned cached dependency archives for standalone LICENSE, NOTICE and COPYING files.
+Dependency coordinates come from the local debug build dependency model and APK version metadata.
+No standalone notice files were found in these archives. The license text is supplied separately.
