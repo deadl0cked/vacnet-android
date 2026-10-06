@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-1.0-preview.apk"><img src="https://img.shields.io/badge/Скачать_APK_·_Download-Android_7.0%2B-DE9B35?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK / Download APK"></a>
-  <a href="https://github.com/deadl0cked/vacnet-android/releases"><img src="https://img.shields.io/badge/Версия-1.0_preview-252A32?style=for-the-badge" alt="Version 1.0 preview"></a>
+  <a href="https://github.com/deadl0cked/vacnet-android/raw/refs/heads/main/downloads/VACnet-1.1-preview.apk"><img src="https://img.shields.io/badge/Скачать_APK_·_Download-Android_7.0%2B-DE9B35?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK / Download APK"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/Версия-1.1_preview-252A32?style=for-the-badge" alt="Version 1.1 preview"></a>
   <a href="https://t.me/deadl0cked"><img src="https://img.shields.io/badge/Автор-deadl0cked-252A32?style=for-the-badge&logo=telegram&logoColor=white" alt="Автор / Creator: deadl0cked"></a>
 </p>
 
@@ -23,11 +23,12 @@
 
 <p align="center">
   <strong>40 секунд: запуск приложения, просмотр клипа и работа с ответами.</strong><br>
-  A 40-second screen recording: app launch, clip review and labeling.<br><br>
+  A 40-second screen recording: app launch, clip review and labeling.<br>
+  Запись версии 1.0; новый интерфейс доступен в APK 1.1. / Recorded on version 1.0.<br><br>
   <a href="https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-Android-walkthrough.mp4">↓ Скачать видео / Download MP4</a>
 </p>
 
-> **Неофициальное приложение.** Не связано с Valve и не выдаёт приглашения в VACnet. Доступ к порталу определяется Valve. Версия 1.0 preview — подписанная **debug-сборка** для раннего знакомства, с включённой отладкой WebView.
+> **Неофициальное приложение.** Не связано с Valve и не выдаёт приглашения в VACnet. Доступ к порталу определяется Valve. Версия 1.1 preview — подписанная **debug-сборка** для раннего знакомства, с включённой отладкой WebView.
 
 ## Русский
 
@@ -44,13 +45,22 @@ VACnet открывает [официальный портал просмотр�
 
 ### Скачать и установить
 
-**[↓ Скачать VACnet 1.0 preview для Android](https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-1.0-preview.apk)** — 5,51 MiB, Android 7.0 и выше.
+**[↓ Скачать VACnet 1.1 preview для Android](https://github.com/deadl0cked/vacnet-android/raw/refs/heads/main/downloads/VACnet-1.1-preview.apk)** — 5,53 MiB, Android 7.0 и выше.
 
-1. Скачайте файл **`VACnet-1.0-preview.apk`** по ссылке выше или из раздела [Releases](https://github.com/deadl0cked/vacnet-android/releases).
+1. Скачайте файл **`VACnet-1.1-preview.apk`** по ссылке выше. Предыдущие выпуски доступны в [Releases](https://github.com/deadl0cked/vacnet-android/releases).
 2. Откройте APK на телефоне. Если Android запросит разрешение на установку из этого источника, разрешите его для приложения, которым вы открываете файл. После установки его можно отключить.
 3. Запустите VACnet. Для функций портала нужны интернет и доступ, предоставленный Valve вашему Steam-аккаунту.
 
-Архивы **Source code (zip / tar.gz)** в Releases содержат материалы этой страницы. Для установки нужен **APK**.
+Для установки скачайте **APK** по прямой ссылке выше. Исходный код Android-приложения не опубликован.
+
+### Что нового в 1.1
+
+- Адаптация нового дизайна VACnet: плеер и панель ответов в одну колонку, без обрезанных кнопок.
+- Пункт **«Обновление приложения»** в настройках: проверка GitHub и скачивание нового APK.
+- Красная точка у настроек, когда найдена более новая сборка. Проверка выполняется при открытии приложения и вручную; повторная автоматическая проверка — не чаще раза в 15 минут.
+- Установка поверх 1.0 с сохранением данных: имя пакета и подпись сохранены. Первое обновление с 1.0 скачайте вручную; дальнейшие версии можно проверять из настроек.
+
+[История изменений](CHANGELOG.md) · [SHA-256 APK](downloads/SHA256SUMS.txt).
 
 ### Перед использованием
 
@@ -71,20 +81,22 @@ VACnet открывает [официальный портал просмотр�
 
 **VACnet brings Valve’s CS2 video review portal to an Android app with a phone-friendly layout.** It adds a mobile page layout, a landscape full-screen player, a dark app shell, saved sessions and scroll position, and recovery after connection errors.
 
-**[↓ Download VACnet 1.0 preview APK](https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-1.0-preview.apk)** — 5.51 MiB · Android 7.0+ · internet required.
+**[↓ Download VACnet 1.1 preview APK](https://github.com/deadl0cked/vacnet-android/raw/refs/heads/main/downloads/VACnet-1.1-preview.apk)** — 5.53 MiB · Android 7.0+ · internet required.
 
 Open the APK on your phone and follow Android’s installation prompt. Download the **APK**, not GitHub’s automatically generated “Source code” archives. Portal access is granted by Valve; this app does not issue invitations or unlock restricted features.
 
 This is an **unofficial preview**, unaffiliated with Valve. The downloadable APK is a signed **debug build with WebView debugging enabled**. It depends on the live website and Android System WebView. Device testing of sign-in and clip review was not performed as part of publication. A future APK signed with a different key may require uninstalling this version, removing its local data and signing in again.
 
+**New in 1.1:** updated layout for the redesigned portal, a GitHub update check in Settings and a red dot when a newer build is available. Download 1.1 manually once if you are still on 1.0. Updates use the same package name and signing certificate. [Changelog](CHANGELOG.md).
+
 Created by **[deadl0cked](https://github.com/deadl0cked)** · [Contact](https://t.me/deadl0cked) · [Report a problem](https://github.com/deadl0cked/vacnet-android/issues/new/choose) · [Press kit](PRESS_KIT.md).
 
 ## Privacy / Конфиденциальность
 
-The app loads the Valve portal and Steam sign-in pages, which receive the data you submit and normal web requests. Cookies and WebView storage persist locally on your device. The reviewed app code contains no separate developer analytics or developer account backend. Website data handling is governed by the website operators. See [PRIVACY.md](PRIVACY.md) for details.
+The app checks GitHub for updates and loads the Valve portal and Steam sign-in pages, which receive the data you submit and normal web requests. Cookies and WebView storage persist locally on your device. The reviewed app code contains no separate developer analytics or developer account backend. Website data handling is governed by the website operators. See [PRIVACY.md](PRIVACY.md) for details.
 
 ## Source and rights / Исходники и права
 
-This repository contains public documentation and promotional assets. **The Android application source code is not published.** The APK is provided for personal use. No open-source license for the application is granted. Third-party components and trademarks retain their respective rights; see [COPYRIGHT.md](COPYRIGHT.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+This repository contains public documentation, promotional assets and a downloadable APK. **The Android application source code is not published.** The APK is provided for personal use. No open-source license for the application is granted. Third-party components and trademarks retain their respective rights; see [COPYRIGHT.md](COPYRIGHT.md) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 Counter-Strike, Steam, Valve and VACnet names belong to their respective rights holders. This community project is not endorsed by Valve.

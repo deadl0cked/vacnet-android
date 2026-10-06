@@ -1,6 +1,6 @@
 # Privacy / Конфиденциальность
 
-Version: VACnet 1.0 preview. Prepared 1 October 2026.
+Version: VACnet 1.1 preview. Updated 6 October 2026.
 
 VACnet is an unofficial Android WebView client for `https://www.counter-strike.net/vacnet/`. It opens Steam pages for authentication and may open external links in a browser or another app.
 
@@ -20,6 +20,10 @@ The reviewed app code does not include a separate developer server, analytics SD
 
 Steam privacy information: [Valve Privacy Policy](https://store.steampowered.com/privacy_agreement/).
 
+## App updates
+
+On opening the app and when you request a check in Settings, the app fetches the public `update.json` file from this project on GitHub. GitHub receives a normal HTTPS request, including the app version in its User-Agent. This separate request does not include Steam cookies or portal account data. Automatic checks are limited to once per 15 minutes while using the app; no background polling service is installed. APK downloads open in your browser after you tap the download button. Android asks you to confirm installation.
+
 ## Permissions and diagnostics
 
 The app declares internet access, network-state access and an AndroidX signature permission for internal receivers. It does not declare access to contacts, location, camera or microphone.
@@ -37,3 +41,5 @@ Questions about the Android client: [deadl0cked on Telegram](https://t.me/deadl0
 Приложение сохраняет cookies, данные WebView и настройки на телефоне. При работе с порталом обычные запросы и введённые вами данные получает Valve / Steam; сторонние сайты получают запросы при переходе по ссылкам. В проверенном коде приложения нет отдельного сервера автора, рекламного или аналитического SDK. Это не описывает правила сбора данных самим сайтом.
 
 В этом предварительном выпуске включена отладка: содержимое WebView доступно при разрешённом вами подключении для отладки, а сообщения страниц могут попасть в локальные журналы. Диагностический отчёт копируется только по вашей команде. Не отправляйте его без проверки на личные данные.
+
+Проверка обновлений обращается к публичному файлу версии на GitHub при открытии приложения или по нажатию в настройках. Cookies Steam и данные учётной записи в этот запрос не включаются. Скачивание APK запускается только по вашей команде; установку подтверждает пользователь.

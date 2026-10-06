@@ -8,13 +8,17 @@
 | --- | --- |
 | Creator | **deadl0cked** |
 | Project | https://github.com/deadl0cked/vacnet-android |
-| Download | [VACnet 1.0 preview APK](https://github.com/deadl0cked/vacnet-android/releases/download/v1.0-preview/VACnet-1.0-preview.apk) |
+| Download | [VACnet 1.1 preview APK](https://github.com/deadl0cked/vacnet-android/raw/refs/heads/main/downloads/VACnet-1.1-preview.apk) |
 | Platform | Android 7.0+; internet required |
-| Release | 1.0 preview; existing signed debug build |
+| Release | 1.1 preview; signed debug build |
 | Price | Free download |
 | Contact | [t.me/deadl0cked](https://t.me/deadl0cked) |
 | Original portal | [counter-strike.net/vacnet](https://www.counter-strike.net/vacnet/) |
 | Source availability | Android source remains private; public download and documentation |
+
+## Latest update — 6 October 2026
+
+Version 1.1 adapts the redesigned portal to a single-column phone layout. Settings now include a GitHub update check, an APK download link and a red availability indicator. The existing 40-second video demonstrates version 1.0; it has not been re-recorded for 1.1.
 
 ## The story
 
@@ -51,4 +55,4 @@ For interviews or additional media requests, contact [the creator](https://t.me/
 
 Вариант заголовка: **«deadl0cked адаптировал портал просмотра клипов VACnet для Android»**.
 
-При публикации укажите автора и ссылку на скачивание. Важно сохранить оговорки: приложение не связано с Valve, не выдаёт приглашения и использует существующий портал. Выпуск 1.0 preview — отладочная сборка. Контакт для вопросов: [t.me/deadl0cked](https://t.me/deadl0cked).
+При публикации укажите автора и ссылку на скачивание. Важно сохранить оговорки: приложение не связано с Valve, не выдаёт приглашения и использует существующий портал. Выпуск 1.1 preview — отладочная сборка. Контакт для вопросов: [t.me/deadl0cked](https://t.me/deadl0cked).

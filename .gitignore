@@ -1,5 +1,6 @@
-# Only public documentation and artwork belong in this repository.
+# Public documentation, artwork and published APK builds only.
 *.apk
+!downloads/*.apk
 *.jks
 *.keystore
 *.p12
